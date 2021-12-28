@@ -1,16 +1,11 @@
-# flutter_app
+# Flutter Mind Maps
 
-A new Flutter project.
+This project is a personal experiment, so everything can be possibly changed. Clone it on your machine and give it a whirl! 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To start playing around, clone the repo on your machine, install necessary dependencies and run it on whatever platform you like.
 
-A few resources to get you started if this is your first Flutter project:
+This project uses Graphview package (especifically the Buchheim Walker algorithm) to calculate Node positions efficiently. The premise is simple, but the possibilities are endless.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Happy coding :)
